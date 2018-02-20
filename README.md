@@ -47,5 +47,7 @@ Contents
     * jupyter notebook containing code to execute analysis of video stream for vehicle identification and tracking
 * p5 writeup.pdf
     * additional thoughts from project creation
+* test_images
+    * single frames from video for testing and demonstrating SVM
 
 
